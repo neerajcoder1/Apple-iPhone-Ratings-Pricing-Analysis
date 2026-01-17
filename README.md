@@ -52,3 +52,11 @@ Pandas – data manipulation
 Matplotlib / Plotly – data visualization
 
 GitHub – project hosting
+
+👤 Author
+
+Neeraj Gahlout
+Aspiring Data Analyst
+📍 Bengaluru, India
+
+🔗https://www.linkedin.com/in/neeraj-gahlout-b39993308/
